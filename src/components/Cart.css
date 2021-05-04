@@ -1,0 +1,21 @@
+.cart-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 40%;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.555);
+    box-shadow: 0 0 8px 0 rgb(0 0 0 / 20%);
+    margin-bottom: 20px;
+
+}
+.box-shadow div{
+    margin:  20px 0px;
+}
+.box-shadow{
+    padding:  0 20px;
+}
+.card-span{
+    color: crimson;
+    padding: 0 20px;
+  }

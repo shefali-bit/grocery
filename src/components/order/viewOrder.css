@@ -1,0 +1,12 @@
+.sss{
+    
+    align-items: center;
+    align-items: stretch;
+    width: 80%;
+    margin-left: 40%;
+    margin-right:10%
+    
+  }
+.img{
+    background: url('/src/components/Images/listorder.jpg') center center/cover no-repeat;
+}
